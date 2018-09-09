@@ -23,7 +23,7 @@
       <file leaf-file-name="functions.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/functions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="657">
+            <state relative-caret-position="202">
               <caret line="66" column="126" lean-forward="false" selection-start-line="66" selection-start-column="126" selection-end-line="66" selection-end-column="126" />
               <folding>
                 <element signature="e#18#39#0" expanded="true" />
@@ -74,6 +74,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -85,7 +86,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -221,6 +221,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/functions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1240">
+          <caret line="66" column="126" lean-forward="false" selection-start-line="66" selection-start-column="126" selection-end-line="66" selection-end-column="126" />
+          <folding>
+            <element signature="e#18#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/test.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -251,7 +268,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/functions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="657">
+        <state relative-caret-position="202">
           <caret line="66" column="126" lean-forward="false" selection-start-line="66" selection-start-column="126" selection-end-line="66" selection-end-column="126" />
           <folding>
             <element signature="e#18#39#0" expanded="true" />
